@@ -1,0 +1,2 @@
+Prefix plugins/ProgressBar/example/
+Plugin ProgressBar inputfile none outputfile none
